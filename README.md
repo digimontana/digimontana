@@ -4,11 +4,9 @@
 <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux"/>
 </p>
 
-<<p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Digimontana&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=#00000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digimontana&hide_border=true&layout=compact&theme=radical&bg_color=#00000000"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Digimontana&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=#00000000" align"center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digimontana&hide_border=true&layout=compact&theme=radical&bg_color=#00000000" align="center"/>
 </p>
 
 <p align="center">
