@@ -3,13 +3,10 @@
 <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux"/>
 </p>
-<!---
-digimontana/digimontana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Digimontana&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digimontana&hide_border=true&layout=compact&theme=radical&bg_color=00000000" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Digimontana&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=#00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digimontana&hide_border=true&layout=compact&theme=radical&bg_color=#00000000"/>
 </p>
 
 <p align="center">
