@@ -1,10 +1,8 @@
-<img src="[https://img.shields.io/static/v1?style=for-the-badge&label=Shell Scripting%20BY&message=SHELL SCRIPTING&color=000000](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)">
-- 👋 Hi, I’m @digimontana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+<p align="center">
+<img src="https://img.shields.io/badge/SHELL%20SCRIPT-black?style=for-the-badge&logo=gnu%20bash"/>
+<img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux"/>
+</p>
 <!---
 digimontana/digimontana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
