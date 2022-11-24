@@ -9,8 +9,8 @@ digimontana/digimontana is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Digimontana&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digimontana&hide_border=true&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Digimontana&show_icons=true&theme=radical&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digimontana&hide_border=true&layout=compact&theme=radical" align="center" />
 </p>
 
 <p align="center">
